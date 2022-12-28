@@ -1,2 +1,2 @@
-# gpt3-writer-extension
+# sparkler-extension
 Use OpenAI anywhere with simple chrome extension

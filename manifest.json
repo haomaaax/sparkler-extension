@@ -1,6 +1,6 @@
 {
-  "name": "Life guru consultant",
-  "description": "Ask your life questions to these life gurus",
+  "name": "Sparkler - Medium blogger helper",
+  "description": "Finalize your writing ideas with one click",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
@@ -11,7 +11,7 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Generate life insights"
+    "default_title": "Sparkler, at your service"
   },
   "background": {
     "service_worker": "scripts/contextMenuServiceWorker.js"
